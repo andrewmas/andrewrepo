@@ -24,10 +24,20 @@ namespace linqToObjects_examples1
             var items = new {name = "car", make = "honda"};
             Console.WriteLine("type = {0}, name = {1}, make = {2}",
                 items.GetType().ToString(), items.name, items.make);
+            
+
+
+
+
+
+
+
+
 
             Console.ReadLine();
         }
     }
+
 
     public static class MyStringExtensions
     {
