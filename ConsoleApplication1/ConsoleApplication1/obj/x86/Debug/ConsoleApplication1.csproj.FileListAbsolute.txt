@@ -3,3 +3,5 @@ C:\Users\Andrew\Project_vs2010\ConsoleApplication1\ConsoleApplication1\bin\Debug
 C:\Users\Andrew\Project_vs2010\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Users\Andrew\Project_vs2010\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
 C:\Users\Andrew\Project_vs2010\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\Andrew\Documents\GitHub\andrewrepo\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\Andrew\Documents\GitHub\andrewrepo\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb

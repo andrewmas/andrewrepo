@@ -1,0 +1,5 @@
+C:\Users\Andrew\Project_vs2010\linqToObjects_examples1\linqToObjects_examples1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Andrew\Project_vs2010\linqToObjects_examples1\linqToObjects_examples1\bin\Debug\linqToObjects_examples1.exe
+C:\Users\Andrew\Project_vs2010\linqToObjects_examples1\linqToObjects_examples1\bin\Debug\linqToObjects_examples1.pdb
+C:\Users\Andrew\Project_vs2010\linqToObjects_examples1\linqToObjects_examples1\obj\x86\Debug\linqToObjects_examples1.exe
+C:\Users\Andrew\Project_vs2010\linqToObjects_examples1\linqToObjects_examples1\obj\x86\Debug\linqToObjects_examples1.pdb
